@@ -136,7 +136,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 		<dependency>
 			<groupId>io.lettuce</groupId>
 			<artifactId>lettuce-core</artifactId>
-			<version>5.0.5.RELEASE</version>
+			<version>5.3.7.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>redis.clients</groupId>
