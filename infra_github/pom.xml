@@ -77,7 +77,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 		<dependency>
 			<groupId>net.logstash.logback</groupId>
 			<artifactId>logstash-logback-encoder</artifactId>
-			<version>5.2</version>
+			<version>5.3</version>
 		</dependency>
 		<dependency>
 			<groupId>io.springfox</groupId>
