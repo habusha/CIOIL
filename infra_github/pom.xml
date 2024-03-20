@@ -116,7 +116,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<version>1.16.20</version>
+			<version>1.18.32</version>
 		</dependency>
 		<dependency>
 			<groupId>com.github.dozermapper</groupId>
